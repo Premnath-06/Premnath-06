@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Premnath 👋
 
-<!--
-**Premnath-06/Premnath-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student | Roblox & UE5 game developer | Building things with AI
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🎮 **STORMFORGE: Sky Empire** — tycoon/creature-collection Roblox game (Lua)
+- 🤖 **FORGEAI** — web app that generates Roblox game systems from text prompts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- ⚔️ **[UE5 Damage System](https://github.com/Premnath-06/ue5-damage-system)** — modular Blueprint damage system (learned from Ali Elzoheiry's tutorial)
+
+## Skills
+`Lua` `Python` `Roblox Studio` `Unreal Engine 5` `Git`
+
+## Currently learning
+Open source contribution · GitHub workflows · Python OOP
