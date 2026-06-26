@@ -317,7 +317,6 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Premnath-06&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6&row=1"/>
-> 🏆 **Not Showing Trophies** Learning and Collecting Trophies.
 </div>
 
 <br/>
