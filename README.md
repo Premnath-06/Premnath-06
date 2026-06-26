@@ -48,7 +48,7 @@ Currently building **STORMFORGE: Sky Empire** — a tycoon/creature-collection h
 **Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=lua,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,python,html,css&theme=dark" />
 </div>
 
 <br/>
@@ -136,7 +136,7 @@ A web application that takes plain text prompts and generates complete, producti
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Lovable · JavaScript · Anthropic API · HTTP long-poll |
+| **Stack** | Lovable · Anthropic API · HTTP long-poll |
 | **Architecture** | AI gateway · Plugin communication · Prompt engineering pipeline |
 | **Scale** | MVP scoped to core system generation |
 | **Impact** | Reduces Roblox game system scaffolding from hours to seconds |
@@ -179,32 +179,6 @@ Actor
 ```
 
 Built by following Ali Elzoheiry's UE5 tutorial series. Uploaded as a learning reference and portfolio piece demonstrating understanding of component-based game architecture.
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>🐍 Python RPG Combat System</b> — Modular OOP Combat Engine</summary>
-
-<br/>
-
-A turn-based combat system built entirely in Python using object-oriented principles. Mirrors the architectural thinking of the UE5 Damage System — data containers, handlers, and interfaces — applied to a Python RPG context.
-
-<div align="center">
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · OOP · JSON file handling |
-| **Architecture** | Stat · Character · CombatSystem · StatusEffect · Display |
-| **Features** | Turn-based combat · Status effects (poison, burn, stun) · HP bar · JSON save |
-| **Covers** | Python Unit 4 (OOP) · Unit 5 (File Handling) coursework |
-| **Repository** | [Premnath-06/python-rpg-combat-system](https://github.com/Premnath-06/python-rpg-combat-system) |
-
-</div>
-
-Clean separation of concerns: `stat.py` handles data, `combat.py` handles logic, `character.py` handles actors, `display.py` handles output, `main.py` orchestrates. Results persisted to `data/save.json` after each session.
 
 <br/>
 </details>
@@ -259,7 +233,6 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 | ⚔️ Modular UE5 System | Designed Component + Interface + Struct architecture in Blueprints |
 | 🎮 STORMFORGE Phase 1 | Completed full server/client architecture for a production Roblox game |
 | 🤖 FORGEAI MVP | Built an AI-powered game system generator from scratch |
-| 🐍 Python Combat Engine | Applied CS coursework directly to a real modular project |
 | 🌐 Open Source | Actively learning GitHub contribution workflows and PR process |
 
 </div>
@@ -357,9 +330,8 @@ current_focus:
   building:
     - STORMFORGE: Sky Empire (Roblox — Phase 2: UI + combat layer)
     - FORGEAI (AI-powered Roblox game system generator)
-    - Python RPG Combat System (modular OOP engine)
   exploring:
-    - Open source good-first-issues in Python and JavaScript
+    - Open source good-first-issues in Python
     - Roblox Creator Store asset integration
     - UE5 Environment Query System (EQS) advanced patterns
   open_to:
