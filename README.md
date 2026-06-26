@@ -315,6 +315,10 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Trophies&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Premnath-06&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6&row=1"/>
+</div>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:6C63FF&height=3" width="100%"/>
