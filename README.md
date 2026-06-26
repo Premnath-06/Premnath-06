@@ -9,7 +9,7 @@
 <br/><br/>
 
 ![CS Student](https://img.shields.io/badge/CS-Student-7C3AED?style=for-the-badge&logo=bookopen&logoColor=white)
-![India](https://img.shields.io/badge/%F0%9F%93%8D-Nagpur%2C+India-4F46E5?style=for-the-badge)
+![India](https://img.shields.io/badge/%F0%9F%93%8D-India-4F46E5?style=for-the-badge)
 ![Open To](https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-6C63FF?style=for-the-badge)
 
 <br/>
