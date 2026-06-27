@@ -337,8 +337,6 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
   <img src="https://raw.githubusercontent.com/Premnath-06/Premnath-06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake — set up the GitHub Action to enable this"/>
 </picture>
 
-> ⚙️ **Snake not showing?** Add `.github/workflows/snake.yml` to your profile repo and run the action once. See setup file provided separately.
-
 </div>
 
 <br/>
