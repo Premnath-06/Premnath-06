@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Premnath--06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Premnath-06)
 [![Email](https://img.shields.io/badge/Email-mosqiiplayz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mosqiiplayz@gmail.com)
 &nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Premnath-06&color=7C3AED&style=flat-square&label=Profile+Views)
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPremnath-06&color=7C3AED&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Premnath-06?style=flat-square&color=6C63FF&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Premnath-06?style=flat-square&color=4F46E5&label=Stars)
 
@@ -316,7 +316,13 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Premnath-06&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=800&lines=🏆+No+trophies+unlocked+yet+—+but+the+grind+has+started;Every+legend+starts+at+zero.+Watch+this+space+👀;Trophies+drop+automatically+as+milestones+are+hit+⚡" alt="Trophy Status"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Premnath-06&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6&row=1"/>
+
 </div>
 
 <br/>
