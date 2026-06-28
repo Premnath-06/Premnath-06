@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Runs every 6 hours — keeps stats fresh throughout the day
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -16,22 +16,50 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Bust stats cache in README
+      - name: Fetch real contribution count from GitHub API
+        id: contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Generate a timestamp token (YYYYMMDDHH)
+          # Fetch total contributions for the last year via GitHub GraphQL API
+          RESPONSE=$(curl -s \
+            -H "Authorization: bearer $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST \
+            -d '{"query":"{ user(login: \"Premnath-06\") { contributionsCollection { contributionCalendar { totalContributions } } } }"}' \
+            https://api.github.com/graphql)
+
+          COUNT=$(echo "$RESPONSE" | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          print(data['data']['user']['contributionsCollection']['contributionCalendar']['totalContributions'])
+          ")
+
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Fetched contribution count: $COUNT"
+
+      - name: Update README with real contribution count and cache bust token
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
           TOKEN=$(date -u +"%Y%m%d%H")
+          COUNT=${{ steps.contributions.outputs.count }}
 
-          # Update hidden timestamp comment
-          sed -i "s/<!-- STATS_LAST_UPDATED:.*-->/<!-- STATS_LAST_UPDATED: $(date -u +"%Y-%m-%d %H:%M UTC") -->/" README.md
+          # Update hidden timestamp
+          sed -i "s/<!-- STATS_LAST_UPDATED:.*-->/<!-- STATS_LAST_UPDATED: $DATE -->/" README.md
 
-          # Replace the cache-bust token in each stats URL
-          # This forces GitHub to treat it as a new image every run
-          sed -i "s/&bust=[0-9]*/\&bust=$TOKEN/" README.md
+          # Update contribution count in badge URL
+          sed -i "s/Total%20Contributions%20(Last%20Year)-[0-9]*/Total%20Contributions%20(Last%20Year)-$COUNT/" README.md
+
+          # Update hidden contribution count comment
+          sed -i "s/<!-- CONTRIBUTION_COUNT:.*-->/<!-- CONTRIBUTION_COUNT: $COUNT -->/" README.md
+
+          # Update cache bust token in all stats image URLs
+          sed -i "s/&bust=[0-9]*/\&bust=$TOKEN/g" README.md
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: refresh stats [$(date -u +%Y-%m-%d %H:%M UTC)]"
+          git diff --staged --quiet || git commit -m "chore: refresh stats — ${{ steps.contributions.outputs.count }} contributions [$(date -u +%Y-%m-%d %H:%M UTC)]"
           git push
