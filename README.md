@@ -265,8 +265,6 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 |---|---|
 | 🚀 First GitHub Repo | Published UE5 Damage System — first public portfolio piece |
 | ⚔️ Modular UE5 System | Designed Component + Interface + Struct architecture in Blueprints |
-| 🎮 STORMFORGE Phase 1 | Completed full server/client architecture for a production Roblox game |
-| 🤖 FORGEAI MVP | Built an AI-powered game system generator from scratch |
 | 🌐 Open Source | Actively learning GitHub contribution workflows and PR process |
 
 </div>
