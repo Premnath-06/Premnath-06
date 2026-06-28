@@ -293,11 +293,13 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Analytics&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
+<!-- STATS_LAST_UPDATED: 2026-06-28 -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400" height="170"/>
 
 <br/><br/>
 
