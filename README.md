@@ -187,6 +187,32 @@ Built by following Ali Elzoheiry's UE5 tutorial series. Uploaded as a learning r
 <br/>
 </details>
 
+---
+
+<details>
+<summary><b>🔍 GitHub Profile Analyzer</b> — Python + Streamlit Web App</summary>
+
+<br/>
+
+A web application that analyzes any GitHub profile instantly — calculating a profile score out of 100, visualizing top languages, top repos by stars, recent activity, and personalized improvement tips. No API key required.
+
+<div align="center">
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · Streamlit · Plotly · GitHub Public API |
+| **Architecture** | Modular — `github_api.py` · `analyzer.py` · `charts.py` · `app.py` |
+| **Security** | Username validation · XSS prevention via HTML escaping · URL sanitization |
+| **Features** | Profile score · Language pie chart · Star bar chart · Score breakdown · Tips |
+| **Repository** | [Premnath-06/github-profile-analyzer](https://github.com/Premnath-06/github-profile-analyzer) |
+
+</div>
+
+Enter any GitHub username and get a full breakdown in seconds. Scores are based on 9 real criteria including bio, README, recent activity, stars, and account age. All user data is sanitized before rendering to prevent XSS attacks.
+
+<br/>
+</details>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:7C3AED,100:6C63FF&height=3" width="100%"/>
@@ -240,6 +266,8 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 | 🚀 First GitHub Repo | Published UE5 Damage System — first public portfolio piece |
 | ⚔️ Modular UE5 System | Designed Component + Interface + Struct architecture in Blueprints |
 | 🎮 STORMFORGE Phase 1 | Completed full server/client architecture for a production Roblox game |
+| 🤖 FORGEAI MVP | Built an AI-powered game system generator from scratch |
+| 🌐 Open Source | Actively learning GitHub contribution workflows and PR process |
 
 </div>
 
@@ -291,17 +319,22 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Analytics&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- STATS_LAST_UPDATED: 2026-06-28 14:55 UTC -->
+<!-- STATS_LAST_UPDATED: 2026-06-28 00:00 UTC -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026062814" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026062800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026062814" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026062800" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026062814" height="170"/>
+<!-- CONTRIBUTION_COUNT: 140 -->
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-140-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026062800&hide_total_contributions=true" height="170"/>
 
 </div>
 
