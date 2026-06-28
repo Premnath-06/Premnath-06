@@ -104,7 +104,7 @@ Currently building **STORMFORGE: Sky Empire** — a tycoon/creature-collection h
 </div>
 
 <details>
-<summary><b>🎮 STORMFORGE: Sky Empire</b> — Roblox Tycoon / Creature-Collection Hybrid</summary>
+<summary><b>🎮 STORMFORGE: Sky Empire</b> — Roblox Tycoon / Creature-Collection Hybrid(In Progress)</summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ Full folder and RemoteEvent hierarchy established. Six core ModuleScripts built:
 ---
 
 <details>
-<summary><b>🤖 FORGEAI</b> — AI-Powered Roblox Game System Generator</summary>
+<summary><b>🤖 FORGEAI</b> — AI-Powered Roblox Game System Generator(In Progress)</summary>
 
 <br/>
 
