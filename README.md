@@ -104,7 +104,7 @@ Currently building **STORMFORGE: Sky Empire** — a tycoon/creature-collection h
 </div>
 
 <details>
-<summary><b>🎮 STORMFORGE: Sky Empire</b> — Roblox Tycoon / Creature-Collection Hybridy(In Progress)</summary>
+<summary><b>🎮 STORMFORGE: Sky Empire</b> — Roblox Tycoon / Creature-Collection Hybrid</summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ Full folder and RemoteEvent hierarchy established. Six core ModuleScripts built:
 ---
 
 <details>
-<summary><b>🤖 FORGEAI</b> — AI-Powered Roblox Game System Generatory(In Progress)</summary>
+<summary><b>🤖 FORGEAI</b> — AI-Powered Roblox Game System Generator</summary>
 
 <br/>
 
@@ -239,7 +239,7 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 |---|---|
 | 🚀 First GitHub Repo | Published UE5 Damage System — first public portfolio piece |
 | ⚔️ Modular UE5 System | Designed Component + Interface + Struct architecture in Blueprints |
-| 🌐 Open Source | Actively learning GitHub contribution workflows and PR process |
+| 🎮 STORMFORGE Phase 1 | Completed full server/client architecture for a production Roblox game |
 
 </div>
 
@@ -291,17 +291,17 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Analytics&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- STATS_LAST_UPDATED: 2026-06-28 -->
+<!-- STATS_LAST_UPDATED: 2026-06-28 00:00 UTC -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026062800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026062800" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026062800" height="170"/>
 
 </div>
 
