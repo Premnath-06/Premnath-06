@@ -265,6 +265,7 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 |---|---|
 | 🚀 First GitHub Repo | Published UE5 Damage System — first public portfolio piece |
 | ⚔️ Modular UE5 System | Designed Component + Interface + Struct architecture in Blueprints |
+| 🔍 GitHub Profile Analyzer | Built a full-stack Python + Streamlit web app with security, live charts, and auto-updating stats |
 | 🌐 Open Source | Actively learning GitHub contribution workflows and PR process |
 
 </div>
