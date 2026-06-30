@@ -318,22 +318,22 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Analytics&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- STATS_LAST_UPDATED: 2026-06-30 09:47 UTC -->
+<!-- STATS_LAST_UPDATED: 2026-06-29 04:20 UTC -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026063009" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026062904" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026063009" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026062904" height="170"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION_COUNT: 169 -->
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-169-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+<!-- CONTRIBUTION_COUNT: 148 -->
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-148-7C3AED?style=for-the-badge&logo=github&logoColor=white)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026063009&hide_total_contributions=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026062904&hide_total_contributions=true" height="170"/>
 
 </div>
 
