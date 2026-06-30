@@ -322,9 +322,9 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF&cache_seconds=14400&bust=2026062904" height="170"/>
+<img src="https://github-readme-stats-eta-lilac-74.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6&cache_seconds=14400&bust=2026062904" height="170"/>
+<img src="https://github-readme-stats-eta-lilac-74.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/><br/>
 
