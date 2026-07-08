@@ -318,22 +318,15 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=60&text=◈%20GitHub%20Analytics&fontSize=32&fontColor=A78BFA&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- STATS_LAST_UPDATED: 2026-06-29 04:20 UTC -->
-
 <div align="center">
 
-<img src="https://github-readme-stats-eta-lilac-74.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Premnath-06&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&ring_color=6C63FF" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats-eta-lilac-74.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnath-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION_COUNT: 148 -->
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-148-7C3AED?style=for-the-badge&logo=github&logoColor=white)
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED&bust=2026062904&hide_total_contributions=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Premnath-06&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&stroke=7C3AED" height="170"/>
 
 </div>
 
@@ -366,7 +359,7 @@ Studying core CS fundamentals including OOP, data structures, digital logic desi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premnath-06/Premnath-06/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premnath-06/Premnath-06/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Premnath-06/Premnath-06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake — set up the GitHub Action to enable this"/>
+  <img src="https://raw.githubusercontent.com/Premnath-06/Premnath-06/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </picture>
 
 </div>
